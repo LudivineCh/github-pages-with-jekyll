@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenue à Bastia"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Viens déouvrir une ville située entre mer et montagne et plongée au coeur d'une nature sauvage ...
